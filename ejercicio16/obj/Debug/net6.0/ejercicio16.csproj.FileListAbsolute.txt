@@ -1,0 +1,15 @@
+C:\Users\acoleman\source\repos\ejercicio16\bin\Debug\net6.0\ejercicio16.exe
+C:\Users\acoleman\source\repos\ejercicio16\bin\Debug\net6.0\ejercicio16.deps.json
+C:\Users\acoleman\source\repos\ejercicio16\bin\Debug\net6.0\ejercicio16.runtimeconfig.json
+C:\Users\acoleman\source\repos\ejercicio16\bin\Debug\net6.0\ejercicio16.dll
+C:\Users\acoleman\source\repos\ejercicio16\bin\Debug\net6.0\ejercicio16.pdb
+C:\Users\acoleman\source\repos\ejercicio16\obj\Debug\net6.0\ejercicio16.csproj.AssemblyReference.cache
+C:\Users\acoleman\source\repos\ejercicio16\obj\Debug\net6.0\ejercicio16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acoleman\source\repos\ejercicio16\obj\Debug\net6.0\ejercicio16.AssemblyInfoInputs.cache
+C:\Users\acoleman\source\repos\ejercicio16\obj\Debug\net6.0\ejercicio16.AssemblyInfo.cs
+C:\Users\acoleman\source\repos\ejercicio16\obj\Debug\net6.0\ejercicio16.csproj.CoreCompileInputs.cache
+C:\Users\acoleman\source\repos\ejercicio16\obj\Debug\net6.0\ejercicio16.dll
+C:\Users\acoleman\source\repos\ejercicio16\obj\Debug\net6.0\refint\ejercicio16.dll
+C:\Users\acoleman\source\repos\ejercicio16\obj\Debug\net6.0\ejercicio16.pdb
+C:\Users\acoleman\source\repos\ejercicio16\obj\Debug\net6.0\ejercicio16.genruntimeconfig.cache
+C:\Users\acoleman\source\repos\ejercicio16\obj\Debug\net6.0\ref\ejercicio16.dll
