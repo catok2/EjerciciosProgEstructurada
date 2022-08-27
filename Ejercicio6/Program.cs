@@ -8,7 +8,5 @@
         int producto = numero1 * numero2;
 
         System.Console.WriteLine("El producto entre 12 y 102 es : " + producto);
-
     }
-
 }

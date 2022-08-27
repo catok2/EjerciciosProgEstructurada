@@ -8,8 +8,6 @@
        num++;
             Console.WriteLine(num);
     } while(num<10);
-
     }
-
 }
 

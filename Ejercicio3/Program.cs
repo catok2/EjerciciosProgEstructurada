@@ -1,4 +1,4 @@
-﻿public class Ejercicio2
+﻿public class Ejercicio3
 {
     private static void Main(string[] args)
     {
@@ -8,6 +8,5 @@
         int producto = 13 * 12;
 
         System.Console.WriteLine("El producto de los numeros 13 y 12 es : " + producto);
-
     }
 }

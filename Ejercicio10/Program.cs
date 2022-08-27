@@ -4,7 +4,6 @@ public class ejercicio10{
 
     public static void Main(String[] args)
     {
-
         Console.WriteLine("Ingrese el numero \n");
         int numero1 = int.Parse(Console.ReadLine());
 
@@ -15,9 +14,6 @@ public class ejercicio10{
         {
             Console.WriteLine("\n El numero es impar");
 
-        }
-            
-
+        }        
     }
-
 }

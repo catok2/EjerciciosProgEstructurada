@@ -10,8 +10,5 @@
         int numero2 = int.Parse(Console.ReadLine());
         int producto = numero1 * numero2;
         Console.WriteLine("El producto entre los numeros es : " + producto);
-
     }
-
-
 }

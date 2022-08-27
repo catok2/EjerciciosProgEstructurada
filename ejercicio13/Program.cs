@@ -22,9 +22,9 @@
             case 5:
                 Console.WriteLine("Cinco");
                 break;
-        }
-               
-
-    }
-
+           default:
+                Console.WriteLine("ERROR");
+                break;
+        }           
+     }
 }

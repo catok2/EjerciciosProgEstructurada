@@ -14,8 +14,5 @@
         } else { 
             Console.WriteLine("Error No se puede dividir entre 0");
         }
-
     }
-
-
 }

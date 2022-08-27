@@ -1,6 +1,5 @@
 ﻿public class ejercicio14
 {
-
     public static void Main(String[] args)
     {
         int num = 0;
@@ -9,7 +8,5 @@
             num++;
             Console.WriteLine(num);
          } 
-
     }
-
 }
