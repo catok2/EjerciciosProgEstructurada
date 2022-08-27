@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acoleman\\source\\repos\\ejercicio12\\ejercicio12.csproj": {}
+    "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio12\\ejercicio12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acoleman\\source\\repos\\ejercicio12\\ejercicio12.csproj": {
+    "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio12\\ejercicio12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acoleman\\source\\repos\\ejercicio12\\ejercicio12.csproj",
+        "projectUniqueName": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio12\\ejercicio12.csproj",
         "projectName": "ejercicio12",
-        "projectPath": "C:\\Users\\acoleman\\source\\repos\\ejercicio12\\ejercicio12.csproj",
+        "projectPath": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio12\\ejercicio12.csproj",
         "packagesPath": "C:\\Users\\acoleman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acoleman\\source\\repos\\ejercicio12\\obj\\",
+        "outputPath": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio12\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

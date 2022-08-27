@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acoleman\\source\\repos\\ejercicio16\\ejercicio16.csproj",
+      "projectUniqueName": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio16\\ejercicio16.csproj",
       "projectName": "ejercicio16",
-      "projectPath": "C:\\Users\\acoleman\\source\\repos\\ejercicio16\\ejercicio16.csproj",
+      "projectPath": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio16\\ejercicio16.csproj",
       "packagesPath": "C:\\Users\\acoleman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acoleman\\source\\repos\\ejercicio16\\obj\\",
+      "outputPath": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio16\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
