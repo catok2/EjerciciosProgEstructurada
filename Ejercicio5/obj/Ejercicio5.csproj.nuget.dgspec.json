@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\Ejercicio5\\Ejercicio5.csproj": {}
+    "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\Ejercicio5\\Ejercicio5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\Ejercicio5\\Ejercicio5.csproj": {
+    "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\Ejercicio5\\Ejercicio5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\Ejercicio5\\Ejercicio5.csproj",
+        "projectUniqueName": "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\Ejercicio5\\Ejercicio5.csproj",
         "projectName": "Ejercicio5",
-        "projectPath": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\Ejercicio5\\Ejercicio5.csproj",
+        "projectPath": "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\Ejercicio5\\Ejercicio5.csproj",
         "packagesPath": "C:\\Users\\acoleman\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\Ejercicio5\\obj\\",
         "projectStyle": "PackageReference",

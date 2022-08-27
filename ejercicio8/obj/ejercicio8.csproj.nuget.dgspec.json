@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio8\\ejercicio8.csproj": {}
+    "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\ejercicio8\\ejercicio8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio8\\ejercicio8.csproj": {
+    "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\ejercicio8\\ejercicio8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio8\\ejercicio8.csproj",
+        "projectUniqueName": "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\ejercicio8\\ejercicio8.csproj",
         "projectName": "ejercicio8",
-        "projectPath": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio8\\ejercicio8.csproj",
+        "projectPath": "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\ejercicio8\\ejercicio8.csproj",
         "packagesPath": "C:\\Users\\acoleman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\ejercicio8\\obj\\",
+        "outputPath": "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\ejercicio8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\programacion estructurada\\programacion estructurada.csproj": {}
+    "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\programacion estructurada\\programacion estructurada.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\programacion estructurada\\programacion estructurada.csproj": {
+    "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\programacion estructurada\\programacion estructurada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\programacion estructurada\\programacion estructurada.csproj",
+        "projectUniqueName": "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\programacion estructurada\\programacion estructurada.csproj",
         "projectName": "programacion estructurada",
-        "projectPath": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\programacion estructurada\\programacion estructurada.csproj",
+        "projectPath": "C:\\Users\\acoleman\\source\\repos\\catok2\\EjerciciosProgEstructurada\\programacion estructurada\\programacion estructurada.csproj",
         "packagesPath": "C:\\Users\\acoleman\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\acoleman\\Source\\Repos\\catok2\\EjerciciosProgEstructurada\\programacion estructurada\\obj\\",
         "projectStyle": "PackageReference",
