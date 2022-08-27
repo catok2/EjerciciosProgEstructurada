@@ -8,8 +8,7 @@
         {  
             num++;
             Console.WriteLine(num);
-            int aaa = 10;
-        } 
+         } 
 
     }
 
